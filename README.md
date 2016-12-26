@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+First time I have been exposed to collaboration
+Im going to use this to become a Medical Billionaire
